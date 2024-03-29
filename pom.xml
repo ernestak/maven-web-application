@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>webbuild</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
