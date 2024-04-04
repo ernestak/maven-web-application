@@ -106,7 +106,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>pipeline-proj</finalName>
 		
 		<plugins>
 			<plugin>
